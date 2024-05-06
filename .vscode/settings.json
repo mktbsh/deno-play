@@ -3,4 +3,7 @@
   "deno.enable": true,
   "deno.lint": true,
   "deno.cacheOnSave": true,
+  "cSpell.words": [
+    "Deno"
+  ],
 }
